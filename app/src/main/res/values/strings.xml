@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zoomcar</string>
+    <string name="failure_network">Network is not reachable</string>
+    <string name="failure_general">Some error occured, please try again later</string>
+    <string name="request_success">Request successfull</string>
+    <string name="request_progress">Request progress, please wait</string>
+
+    <string name="listing_sort_by">Sort by</string>
+    <string name="listing_sort_price">Price / hr</string>
+    <string name="listing_sort_rating">Rating</string>
+
+    <string name="listing_api_hit">API Hits: </string>
+    <string name="listing_api_total_cars">Total Cars: </string>
+</resources>
